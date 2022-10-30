@@ -5,6 +5,23 @@ body {
   font-size: 2rem;
   color: #40514E;
 }
+#pytext{
+  width: 50%;
+  margin-left: 35%;
+  margin-top: 0%;
+
+}
+#linkedin{
+  width: 10%;
+  
+}
+#twitter{
+  width:11%;
+}
+#subheading{
+  font-size: 200%;
+  color:
+}
 
 h1 {
   margin: 50px auto 0 auto;
@@ -58,6 +75,7 @@ p{
 }
 .middle-container {
    margin: 100px 0px;
+   background-color:azure;
 }
 
 .bottom-container {
